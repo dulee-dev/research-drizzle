@@ -5,8 +5,10 @@ const pool = new Pool({
   host: '127.0.0.1',
   port: 5432,
   user: 'postgres',
-  password: 'password',
-  database: 'db_name',
+  password: '5kWHAE1eokFYfhw',
+  database: 'playground1',
 });
 
 const db = drizzle(pool);
+
+console.log(db);

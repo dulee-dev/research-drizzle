@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "------------------------ exec -----------------------------------": "",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "once": "npm run build && npm run start",
     "----------------------- format ---------------------------------": "",
     "prettier.fix": "prettier --write \"src/**/*.ts\"",
     "lint.fix": "eslint \"src/**/*.ts\" --fix",
