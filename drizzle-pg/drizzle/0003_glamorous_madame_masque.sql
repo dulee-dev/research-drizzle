@@ -1,0 +1,1 @@
+ALTER TABLE "user" ALTER COLUMN "id" SET DEFAULT USING id::uuid;

@@ -1,7 +1,8 @@
 import { drizzle } from 'drizzle-orm/node-postgres';
 import { Pool } from 'pg';
+import { user } from '../drizzle-pg/schema/user';
 
-const pool = new Pool({
+export const pool = new Pool({
   host: '127.0.0.1',
   port: 5432,
   user: 'postgres',
@@ -9,6 +10,4 @@ const pool = new Pool({
   database: 'playground1',
 });
 
-const db = drizzle(pool);
-
-console.log(db);
+export const db = drizzle(pool);

@@ -1,0 +1,83 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708672476935,
+      "tag": "0000_familiar_silver_fox",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1708673903480,
+      "tag": "0001_orange_tyrannus",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1708674111176,
+      "tag": "0002_greedy_smiling_tiger",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1708674197356,
+      "tag": "0003_glamorous_madame_masque",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1708674278655,
+      "tag": "0004_easy_war_machine",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1708676054905,
+      "tag": "0005_dizzy_greymalkin",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1708676131353,
+      "tag": "0006_flippant_vengeance",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1708676152895,
+      "tag": "0007_dear_mockingbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1708676187775,
+      "tag": "0008_tricky_iron_lad",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1708676217463,
+      "tag": "0009_giant_network",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "5",
+      "when": 1708676391636,
+      "tag": "0010_typical_romulus",
+      "breakpoints": true
+    }
+  ]
+}

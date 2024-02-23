@@ -1,0 +1,12 @@
+ORM:
+  ✔ make pg pool connection @done(24-02-23 20:45)
+  ✔ manage schema @started(24-02-23 21:53) @done(24-02-23 21:53) @lasted(22s)
+  ✔ access data @done(24-02-24 00:25)
+  ✔ performance @done(24-02-24 00:25)
+  ✔ advanced @done(24-02-24 00:25)
+  ✔ drizzle-typebox @done(24-02-24 00:25)
+  
+KIT:
+  ✔ overview @done(24-02-24 00:25)
+  ✔ config @done(24-02-24 00:25)
+  ✔ commands @done(24-02-24 00:25)

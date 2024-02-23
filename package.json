@@ -5,9 +5,10 @@
   "main": "index.js",
   "scripts": {
     "------------------------ exec -----------------------------------": "",
-    "build": "tsc",
-    "start": "node dist/index.js",
-    "once": "npm run build && npm run start",
+    "clean": "rm -fr dist/*",
+    "build": "tsc --build",
+    "migrate": "node dist/src/migrate.js",
+    "once": "npm run clean && npm run build && npm run migrate",
     "----------------------- format ---------------------------------": "",
     "prettier.fix": "prettier --write \"src/**/*.ts\"",
     "lint.fix": "eslint \"src/**/*.ts\" --fix",
